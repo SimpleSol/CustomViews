@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomViews</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="btn_clear_text">Clear</string>
+    <string name="desc_for_tiger_pic">Picture of the tiger</string>
+    <string name="tiger_description">The tiger (Panthera tigris) is the largest cat species, reaching a total body length of up to 3.38 m (11.1 ft) over curves and exceptionally weighing up to 388.7 kg (857 lb) in the wild.</string>
+</resources>
